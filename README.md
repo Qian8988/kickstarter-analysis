@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Module 1 Challenge  - Qian Dong <just4qd@gmail.com>
+Module 1 Challenge 
 
 ---
 
